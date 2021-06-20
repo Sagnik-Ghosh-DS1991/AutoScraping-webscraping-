@@ -11,13 +11,16 @@ You just have to provide the URL or HTML content of the web page from where you 
 There are 3 ways to install this library in your system.
 
 - Install from the git repository using pip:
-pip install git+https://github.com/alirezamika/autoscraper.git
+
+  pip install git+https://github.com/alirezamika/autoscraper.git
 
 - Install using PyPI:
-pip install autoscraper
+
+  pip install autoscraper
 
 - Install from source:
-python setup.py install
+
+  python setup.py install
 
 ### Importing Library
 
